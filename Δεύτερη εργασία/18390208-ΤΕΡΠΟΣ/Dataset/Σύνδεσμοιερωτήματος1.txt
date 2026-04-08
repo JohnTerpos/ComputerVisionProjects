@@ -1,0 +1,98 @@
+Σύνδεσμοι εικόνων
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg
+https://www.ladbible.com/cdn-cgi/image/width=720,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbdd72e385ccb126f82682c2e3c9f4a56.png
+https://www.looper.com/img/gallery/the-ending-of-iron-man-2-explained/intro-1615497154.jpg
+https://images.hgmsites.net/hug/batmobile-recreation-photo-by-bonhams_100784755_h.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZlQoJrjhHQsy54YpFXR3PzOVa_0Mb6FAHg&usqp=CAU
+https://image.similarpng.com/thumbnail/2020/09/Red-car-on-transparent-background-PNG.png
+https://media.tacdn.com/media/attractions-splice-spp-674x446/07/1a/47/6e.jpg
+https://imgcld.yatra.com/ytimages/image/upload/v1442820636/Eiffel_Tower.jpg
+https://content.r9cdn.net/rimg/dimg/4b/53/a51d23ef-city-28501-14fefdb314f.jpg?crop=true&width=568&height=320&xhint=1707&yhint=2488
+https://i1.prth.gr/images/595x335/files/2022-05-05/FERRARI_SP48_UNICA.jpg
+https://manuals.plus/wp-content/uploads/2021/08/featured-515.jpg
+https://www.ed92.org/wp-content/uploads/2021/06/iron-man-tom-cruise.jpg
+https://upload.wikimedia.org/wikipedia/el/e/e3/Iron_Man_film_armor.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKpr_Gh_i8N8VjskNaQ2avaJpOjeSOX0mQA&usqp=CAU
+https://www.esquireme.com/cloud/2021/09/09/bugatti-la-voiture-noire-car-design_dezeen_2364_hero-1.jpg
+https://www.carandmotor.gr/sites/default/files/styles/horizontal_rectangle_small/public/2021-07/Koenigsegg-Jesko-2020-carandmotor-b.jpg?itok=OjwFq2VS
+https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&w=1000&q=80
+https://www.travelstyle.gr/wp-content/uploads/2020/06/Akropolis-Athens.jpg
+http://www.howitworksdaily.com/wp-content/uploads/2015/07/68_1.jpg
+https://www.sportime.gr/wp-content/uploads/2021/05/BigBenCreditsborisoviStockGettyImagesPlusGettyImages_0-768x461.jpg
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Πείραμα με ratio train data=60%, validation data=20% and test data=20%
+train data
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Κατηγορία Iron-man
+https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg
+https://www.ladbible.com/cdn-cgi/image/width=720,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbdd72e385ccb126f82682c2e3c9f4a56.png
+https://www.looper.com/img/gallery/the-ending-of-iron-man-2-explained/intro-1615497154.jpg
+https://www.ed92.org/wp-content/uploads/2021/06/iron-man-tom-cruise.jpg
+Κατηγορία Cars
+https://images.hgmsites.net/hug/batmobile-recreation-photo-by-bonhams_100784755_h.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZlQoJrjhHQsy54YpFXR3PzOVa_0Mb6FAHg&usqp=CAU
+https://image.similarpng.com/thumbnail/2020/09/Red-car-on-transparent-background-PNG.png
+https://i1.prth.gr/images/595x335/files/2022-05-05/FERRARI_SP48_UNICA.jpg
+https://manuals.plus/wp-content/uploads/2021/08/featured-515.jpg
+Κατηγορία Tourist_Attractions
+https://media.tacdn.com/media/attractions-splice-spp-674x446/07/1a/47/6e.jpg
+https://imgcld.yatra.com/ytimages/image/upload/v1442820636/Eiffel_Tower.jpg
+https://content.r9cdn.net/rimg/dimg/4b/53/a51d23ef-city-28501-14fefdb314f.jpg?crop=true&width=568&height=320&xhint=1707&yhint=2488
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+test data
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Κατηγορία Cars
+https://www.esquireme.com/cloud/2021/09/09/bugatti-la-voiture-noire-car-design_dezeen_2364_hero-1.jpg
+https://www.carandmotor.gr/sites/default/files/styles/horizontal_rectangle_small/public/2021-07/Koenigsegg-Jesko-2020-carandmotor-b.jpg?itok=OjwFq2VS
+Κατηγορία Iron-man
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKpr_Gh_i8N8VjskNaQ2avaJpOjeSOX0mQA&usqp=CAU
+Κατηγορία Tourist_Attractions
+https://www.sportime.gr/wp-content/uploads/2021/05/BigBenCreditsborisoviStockGettyImagesPlusGettyImages_0-768x461.jpg
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+validation data
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Κατηγορία Cars
+https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&w=1000&q=80
+Κατηγορία Iron-man
+https://upload.wikimedia.org/wikipedia/el/e/e3/Iron_Man_film_armor.jpg
+Κατηγορία Tourist_Attractions
+http://www.howitworksdaily.com/wp-content/uploads/2015/07/68_1.jpg
+https://www.travelstyle.gr/wp-content/uploads/2020/06/Akropolis-Athens.jpg
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Πείραμα με ratio train data=80%, validation data=10% and test data=10%
+train data
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Κατηγορία Iron-man
+https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg
+https://www.ladbible.com/cdn-cgi/image/width=720,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2Fbdd72e385ccb126f82682c2e3c9f4a56.png
+https://www.looper.com/img/gallery/the-ending-of-iron-man-2-explained/intro-1615497154.jpg
+https://www.ed92.org/wp-content/uploads/2021/06/iron-man-tom-cruise.jpg
+https://upload.wikimedia.org/wikipedia/el/e/e3/Iron_Man_film_armor.jpg
+Κατηγορία Cars
+https://images.hgmsites.net/hug/batmobile-recreation-photo-by-bonhams_100784755_h.jpg
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwZlQoJrjhHQsy54YpFXR3PzOVa_0Mb6FAHg&usqp=CAU
+https://image.similarpng.com/thumbnail/2020/09/Red-car-on-transparent-background-PNG.png
+https://i1.prth.gr/images/595x335/files/2022-05-05/FERRARI_SP48_UNICA.jpg
+https://www.esquireme.com/cloud/2021/09/09/bugatti-la-voiture-noire-car-design_dezeen_2364_hero-1.jpg
+https://www.carandmotor.gr/sites/default/files/styles/horizontal_rectangle_small/public/2021-07/Koenigsegg-Jesko-2020-carandmotor-b.jpg?itok=OjwFq2VS
+https://manuals.plus/wp-content/uploads/2021/08/featured-515.jpg
+Κατηγορία Tourist_Attractions
+https://media.tacdn.com/media/attractions-splice-spp-674x446/07/1a/47/6e.jpg
+https://imgcld.yatra.com/ytimages/image/upload/v1442820636/Eiffel_Tower.jpg
+https://content.r9cdn.net/rimg/dimg/4b/53/a51d23ef-city-28501-14fefdb314f.jpg?crop=true&width=568&height=320&xhint=1707&yhint=2488
+https://www.travelstyle.gr/wp-content/uploads/2020/06/Akropolis-Athens.jpg
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+test data
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Κατηγορία Iron-man
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKpr_Gh_i8N8VjskNaQ2avaJpOjeSOX0mQA&usqp=CAU
+Κατηγορία Tourist_Attractions
+https://www.sportime.gr/wp-content/uploads/2021/05/BigBenCreditsborisoviStockGettyImagesPlusGettyImages_0-768x461.jpg
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+validation data
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Κατηγορία Cars
+https://images.unsplash.com/photo-1580446623001-3abf670c5c55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwY2FyfGVufDB8fDB8fA%3D%3D&w=1000&q=80
+Κατηγορία Tourist_Attractions
+http://www.howitworksdaily.com/wp-content/uploads/2015/07/68_1.jpg
